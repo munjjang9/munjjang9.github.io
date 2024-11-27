@@ -3,7 +3,7 @@ title: 문짱구의 게임 개발 블로그
 description: Game Programmer
 url: https://munjjang9.github.io
 avatar: /avatar.jpeg
-paginate: 10
+paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
 
@@ -33,12 +33,12 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Sanghee Mun
   links:
     - https://x.com/duke_mun
     - https://github.com/munjjang9
 google_site_verification: xxxxx
-lang: ko-KR
+lang: en
 
 sass:
   sass_dir: _sass
@@ -56,4 +56,4 @@ sass:
 author:
   name: munjjang9
   url: https://github.com/munjjang9/
-  email: munzzang9@naver.com
+  email: munzzang9@gmail.com
