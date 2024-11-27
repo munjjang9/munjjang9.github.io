@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "C++ 컴파일 과정"
-tags: [C++]
-date:   2024-11-27 14:33:18 +0900
+author: munjjang9
+tags: [Cpp]
+date: 2024-11-27 14:33 +0900
 categories: C++
 toc: false
 ---
