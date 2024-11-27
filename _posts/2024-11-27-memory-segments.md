@@ -3,7 +3,7 @@ layout: post
 title:  "메모리 할당 영역"
 author: munjjang9
 tags: [c, cpp]
-date: 2024-11-27 17:20 +0900
+date: 2024-11-27 20:00 +0900
 categories: C/C++
 toc: true
 ---
