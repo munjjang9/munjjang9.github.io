@@ -3,7 +3,7 @@ layout: post
 title: 코드스멜
 author: munjjang9
 tags: [keyword]
-date: 2024-11-26 23:18 +0900
+date: 2024-11-27 23:10 +0900
 categories: Keywords
 toc:  false
 ---
@@ -19,7 +19,7 @@ toc:  false
 ## 코드 스멜의 종류
 
 ---
-- 일반적인 수준의 스멜
+### 일반적인 수준의 스멜
 
     1. 어울리지 않는 이름
 
@@ -37,7 +37,7 @@ toc:  false
 
 <br>
 
-- 클래스 수준의 스멜
+### 클래스 수준의 스멜
 
     1. 커다란 클래스
 
@@ -61,7 +61,7 @@ toc:  false
 
 <br>
 
-- 메서드 수준의 스멜
+### 메서드 수준의 스멜
 
     1. 너무 많은 매개변수
 
