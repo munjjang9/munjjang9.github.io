@@ -78,7 +78,7 @@ int main()
     c = a + b;                  //Code
     k = 3;                      //Code
 
-    func(c, k);                 //Stck
+    func(c, k);                 //Stack
 
     return 0;
 }                               //Stack 소멸
