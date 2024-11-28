@@ -3,7 +3,7 @@ title: 문짱구의 게임 개발 블로그
 description: Game Programmer
 url: https://munjjang9.github.io/
 avatar: /avatar.jpeg
-paginate: 5
+paginate: 10
 permalink: pretty
 cover_image: /bg.jpeg
 
@@ -60,6 +60,7 @@ author:
 
 # Code block
 markdown: kramdown
+highlighter: rouge
+
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
