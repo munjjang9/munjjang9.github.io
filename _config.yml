@@ -64,3 +64,8 @@ highlighter: rouge
 
 kramdown:
   input: GFM
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname : "munjjang9-github-io"
