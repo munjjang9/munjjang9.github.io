@@ -66,10 +66,10 @@ kramdown:
   input: GFM
 
 
-// repository 등록확인 
+# repository 등록확인 
 repository               : munjjang9/munjjang9.github.io 
 
-// comments 사용함으로 변경
+# comments 사용함으로 변경
 comments:
   provider               : giscus       // provider : false -> giscus
 
@@ -82,8 +82,8 @@ comments:
     theme                : light 
 
 
-// post 기본설정에서도 commments 사용함으로 변경 
-// comments: false -> comments: true
+# post 기본설정에서도 commments 사용함으로 변경 
+# comments: false -> comments: true
 defaults:
   # _posts
   - scope:
