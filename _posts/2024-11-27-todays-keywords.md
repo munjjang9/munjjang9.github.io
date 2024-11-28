@@ -5,7 +5,7 @@ author: munjjang9
 tags: [keyword, code smell]
 date: 2024-11-27 23:10 +0900
 categories: Keywords
-toc:  false
+toc: true
 ---
 
 ## 코드 스멜이란?

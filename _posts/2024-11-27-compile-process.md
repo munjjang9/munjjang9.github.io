@@ -5,7 +5,7 @@ author: munjjang9
 tags: [compile, compile procedure]
 date: 2024-11-27 14:33 +0900
 categories: C/C++
-toc: false
+toc: true
 ---
 ## 컴파일이란?
 ---

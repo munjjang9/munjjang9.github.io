@@ -5,7 +5,7 @@ author: munjjang9
 tags: [keyword, compiler]
 date: 2024-11-26 23:18 +0900
 categories: Keywords
-toc:  false
+toc: true
 ---
 ## 컴파일러란?
 ---
