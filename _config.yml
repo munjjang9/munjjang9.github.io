@@ -66,5 +66,5 @@ kramdown:
   input: GFM
 
 disqus:
-  comments: true
-  shortname : "https-munjjang9-github-io"
+comments: true
+  shortname : munjjang9-github-io
