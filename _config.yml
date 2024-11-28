@@ -47,8 +47,7 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-google_analytics: 
-  tracking_id: G-VCCXFWPMMP
+google_analytics: G-VCCXFWPMMP
 
 # Replace this value and uncomment to enable Disqus
 #disqus: 
