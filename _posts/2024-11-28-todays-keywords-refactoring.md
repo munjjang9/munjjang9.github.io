@@ -14,6 +14,8 @@ toc: true
 
 코드 내의 [코드 스멜](https://munjjang9.github.io/keywords/2024/11/27/todays-keywords/)을 제거하는 것 
 
+<br>
+
 ### 리팩토링의 장점
 리팩토링을 하면 . . .
     

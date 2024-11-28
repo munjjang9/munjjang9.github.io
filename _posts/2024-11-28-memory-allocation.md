@@ -54,7 +54,8 @@ ex )
 	
 	빈 공간(0x000 ~ 0x100) - a.txt(0x100 ~ 0x200) - 빈 공간(0x200 ~ 0x300) - b.exe(0x300 ~ 0x400)
 
-	이렇게 할당 된 주소 공간이 있다고 가정했을 때, 가상 메모리의 주소 매핑은 주소를 연속적으로 사용할 수 있도록 0x000 ~ 0x100, 0x100 ~ 0x200 으로 매핑이 됨.
+	이렇게 할당 된 주소 공간이 있다고 가정했을 때, 
+	가상 메모리의 주소 매핑은 주소를 연속적으로 사용할 수 있도록 0x000 ~ 0x100, 0x100 ~ 0x200 으로 매핑이 됨.
 
 <br>
 
@@ -187,7 +188,8 @@ void Virtual_Alloc()
 		}
 	}
 
-	void* p = VirtualAlloc(nullptr, sizeof(Matrix) * 128, MEM_RESERVE, PAGE_READWRITE); //예약된 공간의 시작 주소를 p에 저장
+	void* p = VirtualAlloc(nullptr, sizeof(Matrix) * 128, MEM_RESERVE, PAGE_READWRITE);
+	 //예약된 공간의 시작 주소를 p에 저장
 
 	for (int i = 0; i < 128; i++)
 	{
