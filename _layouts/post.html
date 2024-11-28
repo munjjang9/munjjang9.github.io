@@ -27,13 +27,14 @@ layout: default
 
   {{ content }}
 
+  {% if site.disqus.shortname %}
+    {% include disqus.html %}
+  {% endif %}
+  
   {% if page.tags %}
     {% include post-tags.html %}
   {% endif %}
 
-  {% if site.disqus.shortname %}
-    {% include disqus.html %}
-  {% endif %}
 </article>
 
 {% if site.related_posts != empty %}
