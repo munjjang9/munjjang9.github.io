@@ -1,12 +1,21 @@
 ---
 layout: post
-title:  "객체지향"
+title:  "프로그래밍 방식"
 author: munjjang9
 tags: [programming method]
 date: 2024-11-28 13:30 +0900
 categories: C/C++
 toc: true
 ---
+
+## 프로그래밍 방식의 발전
+---
+절차지향(Procedural) → 정보공학(구조체) → 객체지향 → CBD(Component Based Development)
+
+순으로 발전해오고 있다.
+
+<br>
+
 ## 객체지향이란?
 ---
 프로그래밍을 하는 방식 중 하나로, 프로그램을 여러 객체들로 구성한다.
@@ -14,12 +23,6 @@ toc: true
 객체는 메소드와 변수를 가진다.
 
 <br>
-
-## 프로그래밍 방식의 발전
----
-절차지향(Procedural) → 정보공학(구조체) → 객체지향 → CBD(Component Based Development)
-
-순으로 발전해오고 있다.
 
 ## 객체지향의 특성
 ---
