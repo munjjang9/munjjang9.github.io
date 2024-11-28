@@ -64,36 +64,3 @@ highlighter: rouge
 
 kramdown:
   input: GFM
-
-
-# repository 등록확인 
-repository               : munjjang9/munjjang9.github.io 
-
-# comments 사용함으로 변경
-comments:
-  provider               : giscus       # provider : false -> giscus
-
-  giscus:
-    repo_id              : <giscus.app_my_configration_repo_id> # https://giscus.app
-    category_name        : General 
-    category_id          : <giscus.app_my_configration_category_id> 
-    discussion_term      : pathname 
-    reactions_enabled    : '1' 
-    theme                : light 
-
-
-# post 기본설정에서도 commments 사용함으로 변경 
-# comments: false -> comments: true
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: post
-    values:
-      layout: single
-      author_profile: true
-      classes: wide
-      read_time: false
-      show_date : true 
-      comments: true
-      related: true

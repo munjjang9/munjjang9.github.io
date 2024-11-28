@@ -6,7 +6,6 @@ tags: [static allocation, dynamic allocation]
 date: 2024-11-28 20:00 +0900
 categories: C/C++
 toc: true
-comments: true
 ---
 
 ## 메모리 할당
