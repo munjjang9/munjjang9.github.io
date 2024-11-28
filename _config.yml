@@ -53,12 +53,6 @@ sass:
 #disqus: 
 #  shortname: https-munjjang9-github-io
 
-#giscus:
-#  repo: munjjang9/munjjang9.github.io
-#  repo_id: R_kgDONVT8_g
-#  category: General
-#  category_id: DIC_kwDONVT8_s4Ckrsq
-
 # Specify the author for blog posts
 author:
   name: munjjang9
