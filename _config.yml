@@ -71,7 +71,7 @@ repository               : munjjang9/munjjang9.github.io
 
 # comments 사용함으로 변경
 comments:
-  provider               : giscus       // provider : false -> giscus
+  provider               : giscus       # provider : false -> giscus
 
   giscus:
     repo_id              : <giscus.app_my_configration_repo_id> # https://giscus.app
