@@ -50,7 +50,8 @@ sass:
 # google_analytics: UA-000000-0
 
 # Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
+disqus: 
+  shortname: https-munjjang9-github-io
 
 # Specify the author for blog posts
 author:
@@ -64,8 +65,3 @@ highlighter: rouge
 
 kramdown:
   input: GFM
-
-comments:
-  provider: "disqus"
-  disqus:
-    shortname : "munjjang9-github-io"
