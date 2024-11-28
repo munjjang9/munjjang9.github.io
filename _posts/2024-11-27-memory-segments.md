@@ -25,6 +25,9 @@ toc: true
 ---
 <br>
 
+
+![Memory-Segments-Image](/assets/images/memory-segments.png)
+
 ## 정적 메모리 영역
 ---
 
