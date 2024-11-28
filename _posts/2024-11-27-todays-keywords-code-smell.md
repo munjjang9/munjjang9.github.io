@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 코드스멜
+title: 코드 스멜
 author: munjjang9
 tags: [keyword, code smell]
 date: 2024-11-27 23:10 +0900
