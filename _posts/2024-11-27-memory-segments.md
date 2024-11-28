@@ -14,9 +14,9 @@ toc: true
 메모리 영역의 종류에는 다음과 같은 것들이 있다.
 - Code 영역
 - Data 영역
-- Stack 영역
-- Heap 영역
 - BSS 영역
+- Heap 영역
+- Stack 영역
 
 영역은 Code -> Data -> BSS -> Heap -> Stack 순서이며, 주소 값은 낮은 값에서 부터 높은 값으로 부여된다.
 
