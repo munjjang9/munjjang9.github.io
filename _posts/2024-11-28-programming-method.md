@@ -2,7 +2,7 @@
 layout: post
 title:  "프로그래밍 방식"
 author: munjjang9
-tags: [programming method]
+tags: [programming method, oop, solid principle]
 date: 2024-11-28 13:30 +0900
 categories: C/C++
 toc: true
@@ -77,3 +77,52 @@ toc: true
 - 추상 클래스
     - 추상 함수 하나를 무조건! 포함하고 있어야 함
     - 객체화가 불가능 함
+
+<br>
+
+## 객체지향 설계 원칙 ( S O L I D )
+
+    - S 단일 책임 원칙 (SRP : Single Responsibility Principle)
+    
+    - O 개방 폐쇄 원칙 (OCP : Open - Closed Principle)
+
+    - L 리스코프 치환 원칙 (LSP : Liskov Substitution Principle)
+
+    - I 인터페이스 분리 원칙 (ISP : Interface Segregation Principle)
+
+    - D 의존-역전 원칙 (Dependency Inversion Principle)
+
+<br>
+
+### 단일 책임 원칙 (Single Responsibility Principle)
+작성된 클래스는 하나의 기능만 가지고, 하나의 책임을 수행하는 데 집중해야함
+
+<br>
+
+### 개방 폐쇄 원칙 (Open-Closed Principle)
+소프트웨어의 구성 요소는 확장(추가)에는 열려있고, 변경(수정)에는 닫혀있어야 함. (확장(추가) O, 변경(수정) X)
+
+확장하는 방식에는 상속과 유니온 방식이 있음.
+
+<br>
+
+### 리스코프 치환 원칙 (Liskov Substitution Principle)
+서브 타입은 언제나 기반 타입으로 교체할 수 있어야 함
+
+공통 부분은 부모 쪽에 있어야함
+
+<br>
+
+### 인터페이스 분리 원칙 (Interface Segregation Principle)
+자신이 사용하지 않는 인터페이스는 구현하지 말아야 함
+
+<br>
+
+### 의존 - 역전 원칙 (Dependency Inversion Principle)
+구조적 디자인에서 발생하던 하위 레벨 모듈의 변경이 상위 레벨 모듈의 변경을 요구하는 위계관계를 끊는 의미의 역전. 실제 사용 관계는 바뀌지 않으며, 추상을 매개로 메시지를 주고 받음으로써 관계를 최대한 느슨하게 만드는 원칙
+커플링을 깨기 위해서 콜 지점을 뒤집는 것
+
+<br>
+
+#### <mark>의존성 주입</mark> (DI : Dependency Injection)
+인터페이스를 사이에 둬서 클래스 레벨에서는 의존관계가 고정되지 않도록 하고 런타임 시에 관계를 동적으로 주입하여 유연성을 확보하고 결합도를 낮출 수 있게 하는 것
