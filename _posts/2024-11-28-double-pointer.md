@@ -3,7 +3,7 @@ layout: post
 title:  "이중 포인터"
 author: munjjang9
 tags: [pointer]
-date: 2024-11-28 13:00 +0900
+date: 2024-11-28 19:10 +0900
 categories: C/C++
 toc: true
 ---
