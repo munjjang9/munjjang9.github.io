@@ -8,7 +8,7 @@ categories: Keywords
 toc: true
 ---
 
-## 코드 스멜이란?
+# 코드 스멜이란?
 
 ---
 
