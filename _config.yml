@@ -3,7 +3,7 @@ title: 문짱구의 게임 개발 블로그
 description: Game Programmer
 url: https://munjjang9.github.io/
 avatar: /avatar.jpeg
-paginate: 10
+# paginate: 10
 permalink: pretty
 cover_image: /bg.jpeg
 
@@ -14,6 +14,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate-v2
 
 # Optimize Jekyll
 exclude:
@@ -65,3 +66,10 @@ highlighter: rouge
 
 kramdown:
   input: GFM
+
+pagination:
+    enabled: true
+    per_page: 5
+    limit: 0
+    sort_field: "date"
+    sort_reverse: true
