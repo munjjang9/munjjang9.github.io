@@ -8,6 +8,9 @@ categories: Keywords
 toc: true
 ---
 
+<br>
+<br>
+
 # 리팩토링
 ---
 프로그램의 동작에 영향을 미치지 않고 코드의 구조를 재구성 하는 것

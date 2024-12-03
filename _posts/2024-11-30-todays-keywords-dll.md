@@ -7,6 +7,10 @@ date: 2024-11-30 23:59 +0900
 categories: Keywords
 toc: true
 ---
+
+<br>
+<br>
+
 # 동적 연결 라이브러리 (DLL : Dynamic Linked Library)
 여러가지 프로그램에서 필요할 때나, 동시에나 사용할 수 있는 코드와 데이터가 포함된 동적 라이브러리
 

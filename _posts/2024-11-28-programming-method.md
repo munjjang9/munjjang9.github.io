@@ -8,6 +8,9 @@ categories: C/C++
 toc: true
 ---
 
+<br>
+<br>
+
 # 프로그래밍 방식의 발전
 ---
 절차지향(Procedural) → 정보공학(구조체) → 객체지향 → CBD(Component Based Development)
