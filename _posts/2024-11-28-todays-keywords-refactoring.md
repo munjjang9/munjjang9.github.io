@@ -2,7 +2,7 @@
 layout: post
 title: 리팩토링
 author: munjjang9
-tags: [keyword, refactoring]
+tags: [refactoring]
 date: 2024-11-28 23:59 +0900
 categories: Keywords
 toc: true

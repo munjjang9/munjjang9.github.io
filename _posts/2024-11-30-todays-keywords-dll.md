@@ -2,7 +2,7 @@
 layout: post
 title: Dynamic Linked Library
 author: munjjang9
-tags: [keyword, dll, dynamic linked library]
+tags: [dll, dynamic linked library]
 date: 2024-11-30 23:59 +0900
 categories: Keywords
 toc: true

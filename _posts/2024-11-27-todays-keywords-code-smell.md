@@ -2,7 +2,7 @@
 layout: post
 title: 코드 스멜
 author: munjjang9
-tags: [keyword, code smell]
+tags: [code smell]
 date: 2024-11-27 23:10 +0900
 categories: Keywords
 toc: true

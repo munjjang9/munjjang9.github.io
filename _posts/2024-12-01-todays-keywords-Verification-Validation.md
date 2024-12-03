@@ -2,7 +2,7 @@
 layout: post
 title: Verification / Validation
 author: munjjang9
-tags: [keyword, verification, validation]
+tags: [verification, validation]
 date: 2024-12-01 23:59 +0900
 categories: Keywords
 toc: true
