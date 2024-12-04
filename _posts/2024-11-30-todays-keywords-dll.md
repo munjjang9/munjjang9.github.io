@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dynamic Linked Library
+title: DLL(Dynamic Linked Library)
 author: munjjang9
 tags: [dll, dynamic linked library]
 date: 2024-11-30 23:59 +0900
