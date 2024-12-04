@@ -72,4 +72,4 @@ pagination:
     per_page: 5
     sort_field: "date"
     sort_reverse: true
-    permalink: /:num/
+    #permalink: /:num/
