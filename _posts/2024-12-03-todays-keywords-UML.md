@@ -46,12 +46,16 @@ Unified Modeling Language. 통합 모델링 언어는 소프트웨어를 개발�
 
     사용자의 관점에서 시스템과 관련된 요소를 보여줌
 
+![UseCase Diagram](/assets/images/UseCaseDiagram_Example.png "UseCase Diagram Example")
+
 <br>
 
 ### 2. 클래스 다이어그램
     클래스의 구성 요소나 클래스 간의 상호관계를 다이어그램으로 나타낸 것
 
     시스템의 구조를 나타내며, 의존 관계와 순환 구조를 나타냄
+
+![Class Diagram](/assets/images/ClassDiagram_Example.png "Class Diagram Example")
 
 <br>
 
@@ -60,12 +64,16 @@ Unified Modeling Language. 통합 모델링 언어는 소프트웨어를 개발�
 
     간단히 동작을 순서에 따라 나타낸 것이라 볼 수 있음
 
+![Activity Diagram](/assets/images/ActivityDiagram_Example.png "Activity Diagram Example")
+
 <br>
 
 ### 4. 시퀀스 다이어그램
     순서와 객체에 따라 어떻게 상호작용을 했는지를 다이어그램으로 나타낸 것
 
     순서와 객체마다의 상호작용을 나타내기에 시나리오 파악에 용이
+
+![Sequence Diagram](/assets/images/SequenceDiagram_Example.png "Sequence Diagram Example")
 
 <br>
 
@@ -74,10 +82,14 @@ Unified Modeling Language. 통합 모델링 언어는 소프트웨어를 개발�
 
     번호를 매겨 각 데이터의 흐름을 표현함
     
+![Communication Diagram](/assets/images/CommunicationDiagram_Example.png "Communication Diagram Example")
+
 <br>
 
 ### 6. 상태 다이어그램
     이벤트에 의해 상태들이 동작하는 것을 다이어그램으로 나타낸 것
+
+![State Diagram](/assets/images/StateDiagram_Example.png "State Diagram Example")
 
 <br>
 
@@ -86,6 +98,8 @@ Unified Modeling Language. 통합 모델링 언어는 소프트웨어를 개발�
 
     보통 복잡한 시스템 구조를 나타내기 위해 사용됨
 
+![Component Diagram](/assets/images/ComponentDiagram_Example.png "Component Diagram Example")
+
 <br>
 
 ### 8. 배포 다이어그램
@@ -93,9 +107,11 @@ Unified Modeling Language. 통합 모델링 언어는 소프트웨어를 개발�
     
     컴퓨팅 노드의 토폴로지 및 통신 경로와 노드에서 실행되는 소프트웨어 구성 요소를 표시함
 
+![Deployment Diagram](/assets/images/DeploymentDiagram_Example.png "Deployment Diagram Example")
+
 <br>
 
 ### 9. 패키지 다이어그램
     유스케이스, 클래스 같은 요소들을 패키지 단위로 묶어 그룹화하여 관계를 나타내는 다이어그램
 
-<br>
+![Package Diagram](/assets/images/ClassDiagram_Example.png "Package Diagram Example")
