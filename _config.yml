@@ -14,7 +14,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate-v2
+  # - jekyll-paginate-v2
 
 # Optimize Jekyll
 exclude:
