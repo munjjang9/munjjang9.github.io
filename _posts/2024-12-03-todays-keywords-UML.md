@@ -2,7 +2,7 @@
 layout: post
 title:  "UML(Unified Modeling Language)"
 author: munjjang9
-tags: [TDD, Test Driven Development]
+tags: [UML, Unified Modeling Language]
 date: 2024-12-03 23:59 +0900
 categories: Keywords
 toc: true
