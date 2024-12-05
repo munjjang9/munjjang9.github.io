@@ -1,9 +1,12 @@
 - title: Email
-  url: mailto://munzzang9@gmail.com
+  url: mailto://munzzang9@naver.com
   icon: fas fa-envelope
+  color: "#03c75a"
 - title: GitHub
   url: https://github.com/munjjang9
   icon: fab fa-github
+  color: "#000000"
 - title: YouTube
   url: https://www.youtube.com/@%EB%AC%B8%EC%A7%B1%EA%B5%AC
   icon: fab fa-youtube
+  color: "#ff0000"
