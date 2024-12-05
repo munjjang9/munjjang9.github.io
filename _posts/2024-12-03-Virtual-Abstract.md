@@ -7,7 +7,6 @@ date: 2024-12-03 18:00 +0900
 categories: C/C++
 toc: true
 ---
-
 # 가상( Virtual )과 추상( Abstract )
 
 <br>
