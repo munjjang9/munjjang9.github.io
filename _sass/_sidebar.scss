@@ -8,7 +8,7 @@
   width: 100%;
 
   a {
-    color: inherit;
+    color: #000000;
     text-decoration: none;
   }
 }
@@ -20,6 +20,7 @@
   display: block;
   margin-right: auto;
   margin-left: auto;
+  border: 2px solid black;
 }
 
 .masthead-title {
@@ -39,6 +40,7 @@
   margin: 0;
   font-size: 1.25rem;
   font-weight: 400;
+  color: #000000;
   opacity: .7;
 }
 
@@ -55,9 +57,10 @@
 
 .navigation-item a {
   background: transparent;
-  color: inherit;
+  color: #000000;
   letter-spacing: 0.05em;
-  font-size: 90%;
+  font-size: 100%;
+  font-weight: 700;
   border-bottom: 2px solid;
   border-color: inherit;
 

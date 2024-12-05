@@ -68,3 +68,7 @@ mark {
   background-color: var(--yellow-100);
   border-radius: .125rem;
 }
+
+div#disqus_thread iframe[sandbox] {
+  max-height: 0px !important;
+}

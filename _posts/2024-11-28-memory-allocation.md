@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "메모리 할당"
+title: 메모리 할당
 author: munjjang9
 tags: [static allocation, dynamic allocation]
 date: 2024-11-28 20:00 +0900

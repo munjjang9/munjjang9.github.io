@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "프로그래밍 방식"
+title: 프로그래밍 방식
 author: munjjang9
 tags: [programming method, oop, solid principle]
 date: 2024-11-28 13:30 +0900

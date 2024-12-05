@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "포인터 기초"
+title: 포인터 기초
 author: munjjang9
 tags: [pointer]
 date: 2024-11-28 13:00 +0900

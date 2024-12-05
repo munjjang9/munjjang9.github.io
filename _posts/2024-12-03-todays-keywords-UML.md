@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UML(Unified Modeling Language)"
+title: UML(Unified Modeling Language)
 author: munjjang9
 tags: [UML, Unified Modeling Language]
 date: 2024-12-03 23:59 +0900

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TDD(Test Driven Development)"
+title: TDD(Test Driven Development)
 author: munjjang9
 tags: [TDD, Test Driven Development]
 date: 2024-12-02 23:59 +0900

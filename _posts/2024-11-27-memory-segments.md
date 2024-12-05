@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "메모리 할당 영역"
+title: 메모리 할당 영역
 author: munjjang9
 tags: [memory segment, code, data, bss, heap, stack]
 date: 2024-11-27 20:00 +0900

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "멤버 연산자"
+title:  멤버 연산자
 author: munjjang9
 tags: [member operators]
 date: 2024-12-02 14:20 +0900

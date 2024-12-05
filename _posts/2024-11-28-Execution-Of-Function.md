@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "함수의 실행"
+title: 함수의 실행
 author: munjjang9
 tags: [function]
 date: 2024-11-28 15:00 +0900
