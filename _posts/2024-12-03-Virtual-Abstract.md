@@ -7,8 +7,11 @@ date: 2024-12-03 18:00 +0900
 categories: C/C++
 toc: true
 ---
+# 가상( Virtual )과 추상( Abstract )
 
-# 가상 ( Virtual )
+<br>
+
+## 가상 ( Virtual )
 부모 클래스에서 선언, 정의하고 자식 클래스에서 재정의가 가능함
 
 virtual 키워드를 통해 가상화가 되었다는 걸 표기
@@ -42,8 +45,9 @@ int main()
     return 0;
 }
 ```
+<br>
 
-# 추상 ( Abstract )
+## 추상 ( Abstract )
 이름만 선언해두고 정의를 하지 않으면 추상
 
 부모 클래스에서 선언만 해두고 자식 클래스에서 재정의
