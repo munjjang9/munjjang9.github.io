@@ -8,9 +8,6 @@ categories: C/C++
 toc: true
 ---
 
-<br>
-<br>
-
 # 멤버 연산자
 멤버 연산자는 주로 구조체(struct), 공용체(union), 클래스(class) 내의 멤버 또는, 배열에 접근하기 위해 사용한다.
 

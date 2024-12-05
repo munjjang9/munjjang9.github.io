@@ -8,9 +8,6 @@ categories: Keywords
 toc: true
 ---
 
-<br>
-<br>
-
 # UML
 Unified Modeling Language. 통합 모델링 언어는 소프트웨어를 개발할 때 이를 시각화하기 위해 사용하는 모델링 언어이다.
 

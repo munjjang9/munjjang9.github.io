@@ -8,9 +8,6 @@ categories: Keywords
 toc: true
 ---
 
-<br>
-<br>
-
 # 컴파일러
 ---
 - 개발자가 작성한 <ins>코드</ins>를 컴퓨터가 인식할 수 있는 <ins>기계어</ins>로 변환해주는 장치. 쉽게 말하면 번역 프로그램.

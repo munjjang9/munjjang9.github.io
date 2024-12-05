@@ -8,9 +8,6 @@ categories: C/C++
 toc: true
 ---
 
-<br>
-<br>
-
 # 이중 포인터 2
 [이중 포인터](https://munjjang9.github.io/c/c++/2024/11/28/double-pointer/)
 

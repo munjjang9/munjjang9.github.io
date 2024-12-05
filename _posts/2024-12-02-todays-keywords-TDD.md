@@ -8,9 +8,6 @@ categories: Keywords
 toc: true
 ---
 
-<br>
-<br>
-
 # TDD
 Test Driven Development. 테스트 주도 개발은 개발을 한 후에 그에 대한 테스트 케이스를 통해 개발이 잘 이루어졌는지 테스트하는 기존의 개발 방법론들과는 다르게 테스트 케이스를 먼저 작성하고 해당 케이스를 토대로 개발을 하는 개발 프로세스이다.
 

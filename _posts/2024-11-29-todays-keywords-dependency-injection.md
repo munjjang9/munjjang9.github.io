@@ -8,9 +8,6 @@ categories: Keywords
 toc: true
 ---
 
-<br>
-<br>
-
 # 의존성 주입
 객체 지향 설계 원칙인 SOLID 원칙 중 [의존 - 역전 원칙](https://munjjang9.github.io/c/c++/2024/11/28/programming-method/#%EC%9D%98%EC%A1%B4---%EC%97%AD%EC%A0%84-%EC%9B%90%EC%B9%99-dependency-inversion-principle)에서 중요한 키워드
 

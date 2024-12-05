@@ -8,9 +8,6 @@ categories: Keywords
 toc: true
 ---
 
-<br>
-<br>
-
 # Verification VS Validation
 우선, 구글을 통해 각각의 단어 뜻을 검색해보면 둘 다 확인이라는 뜻으로 나온다.
 
