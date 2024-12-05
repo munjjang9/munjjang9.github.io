@@ -51,8 +51,8 @@ sass:
 google_analytics: G-VCCXFWPMMP
 
 # Replace this value and uncomment to enable Disqus
-#disqus: 
-#  shortname: https-munjjang9-github-io
+disqus: 
+  shortname: https-munjjang9-github-io
 
 # Specify the author for blog posts
 author:

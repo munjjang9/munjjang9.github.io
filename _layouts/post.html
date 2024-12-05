@@ -31,6 +31,13 @@ layout: default
     {% include post-tags.html %}
   {% endif %}
 
+<!--disqus-->
+  {% if site.disqus.shortname %}
+    {% include disqus.html %}
+  {% endif %}
+
+  
+<!--giscus
   <script src="https://giscus.app/client.js"
         data-repo="munjjang9/munjjang9.github.io"
         data-repo-id="R_kgDONVT8_g"
@@ -46,6 +53,7 @@ layout: default
         crossorigin="anonymous"
         async>
   </script>
+  -->
 </article>
 
 {% if site.related_posts != empty %}
