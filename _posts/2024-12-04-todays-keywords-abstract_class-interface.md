@@ -3,7 +3,7 @@ layout: post
 title: 추상클래스와 인터페이스
 author: munjjang9
 tags: [abstract class, interface]
-date: 2024-12-03 23:59 +0900
+date: 2024-12-04 23:59 +0900
 categories: Keywords
 toc: true
 ---

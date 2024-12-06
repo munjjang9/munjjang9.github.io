@@ -14,13 +14,20 @@
 }
 
 .avatar-image {
-  width: 30%;
+  width: 40%;
   height: auto;
   border-radius: 50%;
   display: block;
   margin-right: auto;
   margin-left: auto;
-  border: 2px solid black;
+}
+
+.avatar-shadow{
+  padding: 1rem;
+  color:  rgb(255,163,5);
+  filter: drop-shadow(0 0 2px rgba(255,163,5, 0.7))
+  drop-shadow(0 0 5px rgba(255,163,5, 0.7))
+  drop-shadow(0 0 15px rgba(255,163,5, 0.7));
 }
 
 .masthead-title {
