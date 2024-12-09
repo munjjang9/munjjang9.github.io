@@ -4,7 +4,7 @@ title: 이중 포인터 2
 author: munjjang9
 tags: [pointer]
 date: 2024-11-29 17:00 +0900
-categories: C/C++
+categories: [C/C++]
 toc: true
 ---
 

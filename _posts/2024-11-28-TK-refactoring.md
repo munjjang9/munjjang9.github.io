@@ -4,7 +4,7 @@ title: 리팩토링
 author: munjjang9
 tags: [refactoring]
 date: 2024-11-28 23:59 +0900
-categories: Keywords
+categories: [Keywords]
 toc: true
 ---
 

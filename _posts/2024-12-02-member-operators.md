@@ -2,9 +2,9 @@
 layout: post
 title:  멤버 연산자
 author: munjjang9
-tags: [member operators]
+tags: [operator]
 date: 2024-12-02 14:20 +0900
-categories: C/C++
+categories: [C/C++]
 toc: true
 ---
 

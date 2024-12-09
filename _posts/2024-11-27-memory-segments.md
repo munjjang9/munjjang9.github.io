@@ -2,9 +2,9 @@
 layout: post
 title: 메모리 할당 영역
 author: munjjang9
-tags: [memory segment, code, data, bss, heap, stack]
+tags: [memory, allocation]
 date: 2024-11-27 20:00 +0900
-categories: C/C++
+categories: [C/C++]
 toc: true
 ---
 

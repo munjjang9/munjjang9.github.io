@@ -4,7 +4,7 @@ title: 델리게이트와 이벤트
 author: munjjang9
 tags: [delegate, event]
 date: 2024-12-05 18:00 +0900
-categories: C/C++
+categories: [C/C++]
 toc: true
 ---
 # 델리게이트( Delegate )와 이벤트( Event )

@@ -2,9 +2,9 @@
 layout: post
 title: 의존성 주입
 author: munjjang9
-tags: [dependency injection]
+tags: [solid, principle]
 date: 2024-11-29 23:59 +0900
-categories: Keywords
+categories: [Keywords]
 toc: true
 ---
 
