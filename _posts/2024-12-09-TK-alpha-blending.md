@@ -2,7 +2,7 @@
 layout: post
 title: 알파 블렌딩
 author: munjjang9
-tags: [software]
+tags: [alpha, blending]
 date: 2024-12-9 23:59 +0900
 categories: [Graphics/Rendering]
 toc: true
