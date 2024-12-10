@@ -3,7 +3,7 @@ layout: post
 title: 알파 블렌딩
 author: munjjang9
 tags: [software]
-date: 2024-12-08 16:00 +0900
+date: 2024-12-9 23:59 +0900
 categories: [Graphics/Rendering]
 toc: true
 ---
