@@ -4,7 +4,7 @@ title: 델리게이트와 이벤트
 author: munjjang9
 tags: [delegate, event]
 date: 2024-12-05 18:00 +0900
-categories: [C/C++]
+categories: [C/C++/C#]
 toc: true
 ---
 # 델리게이트( Delegate )와 이벤트( Event )
@@ -20,3 +20,5 @@ toc: true
 델리게이트는 함수 포인터를 편하게 다루기 위한 객체라고 생각하면 된다. 함수의 주소를 받아 해당 주소로 접근해 함수를 콜하도록 하는 콜백 함수이다.
 
 ## 이벤트 ( Event )
+
+이벤트는 C#에서 사용하는 키워드이다. EventHandler에 등록되어 있는 이벤트를 순차적으로 호출하여 처리한다. 이벤트는 핸들러에 등록하여 사용한 후, 해제를 잘 해주지 않으면 메모리 릭이 발생할 수 있다.

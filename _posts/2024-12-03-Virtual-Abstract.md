@@ -4,7 +4,7 @@ title: 가상과 추상
 author: munjjang9
 tags: [virtual, abstract]
 date: 2024-12-03 18:00 +0900
-categories: [C/C++]
+categories: [C/C++/C#]
 toc: true
 ---
 # 가상( Virtual )과 추상( Abstract )

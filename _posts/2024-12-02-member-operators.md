@@ -4,7 +4,7 @@ title:  멤버 연산자
 author: munjjang9
 tags: [operator]
 date: 2024-12-02 14:20 +0900
-categories: [C/C++]
+categories: [C/C++/C#]
 toc: true
 ---
 
