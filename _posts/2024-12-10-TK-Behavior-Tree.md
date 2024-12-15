@@ -26,7 +26,7 @@ AI의 동작의 흐름이나 조건을 제어하기 위해 사용되는 방법�
 - Branch (Composites)
     - Selector
     - Sequence
-    - Simple Parellel
+    - Simple Parallel
 - Others
     - Tasks (Leaf)
     - Decorators
@@ -72,11 +72,11 @@ AI의 동작의 흐름이나 조건을 제어하기 위해 사용되는 방법�
 
 <br>
 
-#### Simple Parellel
+#### Simple Parallel
 
 ---
 
-![Simple Parellel](/assets/images/BT_SimpleParellel.png)
+![Simple Parallel](/assets/images/BT_SimpleParallel.png)
 
 심플 패러렐 노드는 좌측에 연결된  태스크 노드와 우측에 연결된 자식 노드를 동시에 실행시킨다. 적용된 모드에 따라 실행 방식이 달라진다. 좌측에는 태스크 노드만이 연결될 수 있다.
 
