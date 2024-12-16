@@ -2,7 +2,7 @@
 layout: post
 title: 백페이스 컬링
 author: munjjang9
-tags: [Culling]
+tags: [culling]
 date: 2024-12-12 22:00 +0900
 categories: [Graphics/Rendering]
 toc: true

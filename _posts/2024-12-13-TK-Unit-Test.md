@@ -2,7 +2,7 @@
 layout: post
 title: 단위 테스트
 author: munjjang9
-tags: [Test]
+tags: [test]
 date: 2024-12-13 22:00 +0900
 categories: [Software Engineering]
 toc: true

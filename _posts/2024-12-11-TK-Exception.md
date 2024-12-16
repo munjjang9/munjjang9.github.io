@@ -2,7 +2,7 @@
 layout: post
 title: 예외 처리
 author: munjjang9
-tags: [Exception]
+tags: [exception]
 date: 2024-12-10 22:00 +0900
 categories: [C/C++/C#]
 toc: true
