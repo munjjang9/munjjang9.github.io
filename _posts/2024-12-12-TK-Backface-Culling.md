@@ -3,7 +3,7 @@ layout: post
 title: 백페이스 컬링링
 author: munjjang9
 tags: [Culling]
-date: 2024-12-10 22:00 +0900
+date: 2024-12-12 22:00 +0900
 categories: [Graphics/Rendering]
 toc: true
 ---
