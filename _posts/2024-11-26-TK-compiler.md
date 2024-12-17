@@ -4,7 +4,7 @@ title: 컴파일러
 author: munjjang9
 tags: [compiler]
 date: 2024-11-26 23:18 +0900
-categories: [Keywords]
+categories: [C/C++/C#]
 toc: true
 ---
 

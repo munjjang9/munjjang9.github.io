@@ -4,7 +4,7 @@ title: Verification / Validation
 author: munjjang9
 tags: [verification, validation]
 date: 2024-12-01 23:59 +0900
-categories: [Keywords]
+categories: [Software Engineering]
 toc: true
 ---
 
