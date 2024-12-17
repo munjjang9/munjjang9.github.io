@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 통합합 테스트
+title: 통합 테스트
 author: munjjang9
 tags: [test]
-date: 2024-12-13 22:00 +0900
+date: 2024-12-14 22:00 +0900
 categories: [Software Engineering]
 toc: true
 ---
