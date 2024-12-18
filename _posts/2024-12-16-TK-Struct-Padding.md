@@ -77,23 +77,23 @@ struct S
 #pragma pack(2)
 struct S1
 {
-    char a; 
-    int b;  
-    float c;
-}; 
+    char a; // 1 byte
+    int b;  // 4 byte
+    float c;// 4 byte
+};          // 10 byte
 
 struct S2
 {
-    char a;
-    char b;
-}
+    char a; // 1 byte
+    char b; // 1 byte
+}           // 2 byte
 
 struct S3
 {
-    char a;
-    int b;
-    char c;
-}
+    char a; // 1 byte
+    int b;  // 4 byte
+    char c; // 1 byte
+}           // 8 byte
 ```
 
 이번 예시는 2바이트 단위로 패딩을 잡아보았다.
@@ -114,18 +114,18 @@ S3는 충분히 예상 가능할 거라 생각이 된다. 당연히 S3의 경우
 #pragma pack(push, 1)
 struct S1
 {
-    char a;
-    int b;
-    float c;
-}
+    char a; // 1 byte
+    int b;  // 4 byte
+    float c;// 4 byte
+}           // 9 byte
 #pragma pack(pop)
 
 struct S2
 {
-    char a;
-    int b;
-    float c;
-}
+    char a; // 1 byte
+    int b;  // 4 byte
+    float c;// 4 byte
+}           // 12 byte
 ```
 
 위의 예시는 push와 pop이 적용되는 걸 볼 수 있다.
