@@ -2,9 +2,9 @@
 layout: post
 title: 델리게이트와 이벤트
 author: munjjang9
-tags: [delegate, event]
+tags: [C/C++]
 date: 2024-12-05 18:00 +0900
-categories: [C/C++/C#]
+categories: [Languages]
 toc: true
 ---
 # 델리게이트( Delegate )와 이벤트( Event )

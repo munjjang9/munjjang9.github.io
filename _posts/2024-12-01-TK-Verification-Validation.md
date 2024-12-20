@@ -2,9 +2,9 @@
 layout: post
 title: Verification / Validation
 author: munjjang9
-tags: [verification, validation]
+tags: [Software Engineering]
 date: 2024-12-01 23:59 +0900
-categories: [Software Engineering]
+categories: [Game Development]
 toc: true
 ---
 

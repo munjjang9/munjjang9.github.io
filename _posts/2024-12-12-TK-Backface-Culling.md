@@ -2,9 +2,9 @@
 layout: post
 title: 백페이스 컬링
 author: munjjang9
-tags: [culling]
+tags: [Graphics/Rendering]
 date: 2024-12-12 22:00 +0900
-categories: [Graphics/Rendering]
+categories: [Game Development]
 toc: true
 ---
 

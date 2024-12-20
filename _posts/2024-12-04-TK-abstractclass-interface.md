@@ -2,9 +2,9 @@
 layout: post
 title: 추상클래스와 인터페이스
 author: munjjang9
-tags: [abstract, interface]
+tags: [C/C++]
 date: 2024-12-04 23:59 +0900
-categories: [C/C++/C#]
+categories: [Languages]
 toc: true
 ---
 # [추상](https://munjjang9.github.io/c/c++/2024/12/03/Virtual-Abstract/#%EC%B6%94%EC%83%81--abstract-) 클래스

@@ -2,9 +2,9 @@
 layout: post
 title: 리팩토링
 author: munjjang9
-tags: [refactoring]
+tags: [Software Engineering]
 date: 2024-11-28 23:59 +0900
-categories: [Software Engineering]
+categories: [Game Development]
 toc: true
 ---
 

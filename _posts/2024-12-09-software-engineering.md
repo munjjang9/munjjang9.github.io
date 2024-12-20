@@ -2,9 +2,9 @@
 layout: post
 title: 소프트웨어공학의 정의
 author: munjjang9
-tags: [software engineering]
+tags: [Software Engineering]
 date: 2024-12-08 20:00 +0900
-categories: [Software Engineering]
+categories: [Game Development]
 toc: true
 ---
 

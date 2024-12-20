@@ -2,9 +2,9 @@
 layout: post
 title: 메모리 할당 영역
 author: munjjang9
-tags: [memory, allocation]
+tags: [C/C++]
 date: 2024-11-27 20:00 +0900
-categories: [C/C++/C#]
+categories: [Languages]
 toc: true
 ---
 

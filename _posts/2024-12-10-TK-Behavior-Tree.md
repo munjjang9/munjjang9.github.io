@@ -2,9 +2,9 @@
 layout: post
 title: 비헤이비어 트리
 author: munjjang9
-tags: [tree]
+tags: [Unreal Engine]
 date: 2024-12-10 22:00 +0900
-categories: [Unreal Engine]
+categories: [Game Engine]
 toc: true
 ---
 

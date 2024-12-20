@@ -2,9 +2,9 @@
 layout: post
 title: 병행성과 병렬성
 author: munjjang9
-tags: [concurrency, parallelism]
+tags: [Computer Architecture]
 date: 2024-12-06 18:00 +0900
-categories: [Computer Architecture]
+categories: [Game Development]
 toc: true
 ---
 

@@ -2,9 +2,9 @@
 layout: post
 title: 구조체 패딩
 author: munjjang9
-tags: [struct]
+tags: [C/C++]
 date: 2024-12-16 22:00 +0900
-categories: [C/C++/C#]
+categories: [Languages]
 toc: true
 ---
 

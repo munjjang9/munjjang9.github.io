@@ -2,9 +2,9 @@
 layout: post
 title: 워치독 타이머
 author: munjjang9
-tags: [timer]
+tags: [Embedded System]
 date: 2024-12-13 22:00 +0900
-categories: [Embedded System]
+categories: [Game Development]
 toc: true
 ---
 

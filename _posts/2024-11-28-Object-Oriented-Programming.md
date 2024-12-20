@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 프로그래밍 방식
+title: 객체 지향향
 author: munjjang9
-tags: [programming method, solid, principle]
+tags: [C/C++]
 date: 2024-11-28 13:30 +0900
-categories: [C/C++/C#]
+categories: [Languages]
 toc: true
 ---
 

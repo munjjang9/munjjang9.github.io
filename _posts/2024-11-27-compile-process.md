@@ -2,9 +2,9 @@
 layout: post
 title: C/C++ 컴파일 과정
 author: munjjang9
-tags: [compile]
+tags: [C/C++]
 date: 2024-11-27 14:33 +0900
-categories: [C/C++/C#]
+categories: [Languages]
 toc: true
 ---
 

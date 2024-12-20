@@ -2,9 +2,9 @@
 layout: post
 title: 소프트웨어의 정의와 특성
 author: munjjang9
-tags: [software]
+tags: [Software Engineering]
 date: 2024-12-08 16:00 +0900
-categories: [Software Engineering]
+categories: [Game Development]
 toc: true
 ---
 

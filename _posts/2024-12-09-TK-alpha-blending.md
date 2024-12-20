@@ -2,9 +2,9 @@
 layout: post
 title: 알파 블렌딩
 author: munjjang9
-tags: [alpha, blending]
+tags: [Graphics/Rendering]
 date: 2024-12-9 23:59 +0900
-categories: [Graphics/Rendering]
+categories: [Game Development]
 toc: true
 ---
 

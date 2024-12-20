@@ -2,9 +2,9 @@
 layout: post
 title: 윈도우 메시지 처리
 author: munjjang9
-tags: [windows]
+tags: [Windows]
 date: 2024-12-16 18:00 +0900
-categories: [Win32]
+categories: [Game Development]
 toc: true
 ---
 

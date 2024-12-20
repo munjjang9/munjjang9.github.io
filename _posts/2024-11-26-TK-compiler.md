@@ -2,9 +2,9 @@
 layout: post
 title: 컴파일러
 author: munjjang9
-tags: [compiler]
+tags: [C/C++]
 date: 2024-11-26 23:18 +0900
-categories: [C/C++/C#]
+categories: [Languages]
 toc: true
 ---
 

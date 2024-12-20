@@ -2,9 +2,9 @@
 layout: post
 title: Logic Tree
 author: munjjang9
-tags: [logic tree]
+tags: [Software Engineering]
 date: 2024-12-07 20:00 +0900
-categories: [Software Engineering]
+categories: [Game Development]
 toc: true
 ---
 

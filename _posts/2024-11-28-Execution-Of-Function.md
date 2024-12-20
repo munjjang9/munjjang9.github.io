@@ -2,9 +2,9 @@
 layout: post
 title: 함수의 실행
 author: munjjang9
-tags: [function]
+tags: [C/C++]
 date: 2024-11-28 15:00 +0900
-categories: [C/C++/C#]
+categories: [Languages]
 toc: true
 ---
 

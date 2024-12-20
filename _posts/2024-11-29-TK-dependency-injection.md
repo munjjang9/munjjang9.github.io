@@ -2,9 +2,9 @@
 layout: post
 title: 의존성 주입
 author: munjjang9
-tags: [solid, principle]
+tags: [Software Engineering]
 date: 2024-11-29 23:59 +0900
-categories: [Software Engineering]
+categories: [Game Development]
 toc: true
 ---
 

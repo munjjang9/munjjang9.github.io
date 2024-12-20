@@ -2,9 +2,9 @@
 layout: post
 title: 이중 포인터 2
 author: munjjang9
-tags: [pointer]
+tags: [C/C++]
 date: 2024-11-29 17:00 +0900
-categories: [C/C++/C#]
+categories: [Languages]
 toc: true
 ---
 
