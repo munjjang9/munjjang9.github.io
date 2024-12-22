@@ -14,9 +14,9 @@ toc: true
 
 ## 회전 행렬 유도 과정
 
-Direct X를 공부하던 중, 회전 행렬에 대해 접하게 됐는데, 언리얼 엔진도 그렇고 이미 구현된 회전 행렬을 사용했기에 회전 행렬에 대한 이해도가 떨어졌다.
+DirectX를 공부하던 중, 회전 행렬에 대해 접하게 됐는데, 언리얼 엔진도 그렇고 이미 구현된 회전 행렬을 사용했기에 회전 행렬에 대한 이해도가 떨어졌다.
 
-Direct X를 이용한 프로그래밍을 시작하며 회전 행렬을 이해해보고자 직접 회전행렬을 유도해 보았다.
+DirectX를 이용한 프로그래밍을 시작하며 회전 행렬을 이해해 보고자 직접 회전 행렬을 유도해 보았다.
 
 게임 프로그래밍에 있어 회전은 3가지로 나뉜다.
 
@@ -30,13 +30,13 @@ Direct X를 이용한 프로그래밍을 시작하며 회전 행렬을 이해해
 
 ---
 
-이제부터 유도할 회전 행렬은 왼손 좌표계에 Direct X의 축을 기준으로 진행하고자 한다.
+이제부터 유도할 회전 행렬은 왼손 좌표계에 DirectX의 축을 기준으로 진행하고자 한다.
 
 <br>
 
 ### Pitch 회전
 ---
-Direct X 기준, Pitch 회전은 X축을 기준으로 한 회전이다.
+DirectX 기준, Pitch 회전은 X축을 기준으로 한 회전이다.
 
 왼손 좌표계가 기준이기에, 축을 기준으로 반시계 방향 회전을 시킨다.
 
@@ -44,7 +44,7 @@ X축이 기준이기에, 회전이 일어나는 평면은 Y-Z 평면이 된다.
 
 이해를 쉽게 하기 위해 각 축의 1이 되는 지점을 향하는 벡터를 기준으로 설명하고자 한다.
 
-그림으로 표현해보자면 다음과 같다.
+그림으로 표현해 보자면 다음과 같다.
 
 ![Pitch Rotation](/assets/images/PitchRotation.png)
 
@@ -60,9 +60,9 @@ X축이 기준이기에, 회전이 일어나는 평면은 Y-Z 평면이 된다.
 
 ![Pitch Rotation Induction](/assets/images/PitchRotation-Matrix-Induction.png)
 
-결과를 조금 더 깔끔하게 정리해보았다.
+결과를 조금 더 깔끔하게 정리해 보았다.
 
-![PitchRotation Matrix](/assets/images/PitchRotation-Matrix.png)
+![Pitch Rotation Matrix](/assets/images/PitchRotation-Matrix.png)
 
 <br>
 
