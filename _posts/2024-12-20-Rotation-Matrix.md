@@ -58,11 +58,7 @@ X축이 기준이기에, 회전이 일어나는 평면은 Y-Z 평면이 된다.
 
 유도 공식은 다음과 같다.
 
-![Pitch Rotation Induction](/assets/images/PitchRotation-Matrix-Induction.png)
-
-결과를 조금 더 깔끔하게 정리해 보았다.
-
-![Pitch Rotation Matrix](/assets/images/PitchRotation-Matrix.png)
+![Pitch Rotation Induction](/assets/images/PitchRotation-Matrix-Induction.jpeg)
 
 <br>
 
@@ -86,11 +82,7 @@ X-Z 평면이 아니고 Z-X 평면이다. 이게 중요한 포인트 중 하나�
 
 바로 유도 과정으로 넘어가보자.
 
-![Yaw Rotation Induction](/assets/images/YawRotation-Matrix-Induction.png)
-
-결과 값을 좀 더 깔끔하게 하면 이렇다.
-
-![YawRotation Matrix](/assets/images/YawRotation-Matrix.png)
+![Yaw Rotation Induction](/assets/images/YawRotation-Matrix-Induction.jpeg)
 
 <br>
 
@@ -108,11 +100,7 @@ Z축이 기준이기에 X-Y 평면에서 회전이 일어난다.
 
 유도 과정은 다음과 같다.
 
-![Roll Rotation Induction](/assets/images/RollRotation-Matrix-Induction.png)
-
-깔끔하게 정리한 결과 값이다.
-
-![RollRotation Matrix](/assets/images/RollRotation-Matrix.png)
+![Roll Rotation Induction](/assets/images/RollRotation-Matrix-Induction.jpeg)
 
 <br>
 <br>
