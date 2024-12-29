@@ -2,7 +2,7 @@
 layout: post
 title: 윈도우 메시지 처리
 author: munjjang9
-tags: [Direct X]
+tags: [DirectX]
 date: 2024-12-16 18:00 +0900
 categories: [Game Engine]
 toc: true
