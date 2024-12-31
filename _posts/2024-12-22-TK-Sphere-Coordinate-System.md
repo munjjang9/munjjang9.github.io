@@ -9,7 +9,7 @@ toc: true
 ---
 
 ## Sphere Coordinate System
-
+---
 구면 좌표계는 3차원 공간 상에 점들을 나타내는 좌표계 중 하나이다.
 
 3D 극좌표계와 많이 이야기된다.
@@ -23,7 +23,7 @@ toc: true
 <br>
 
 ### 구면 - 직교 변환
-
+---
 ![Sphere Coordinate System transformation](/assets/images/Sphere-Coordinate-System-transformation.png)
 
 둘 간의 변환은 이런 식으로 이루어진다.

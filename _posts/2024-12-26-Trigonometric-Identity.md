@@ -13,7 +13,7 @@ toc: true
 <br>
 
 ## 삼각함수의 기초
-
+---
 게임 프로그래밍에서 삼각함수는 기초라고 볼 수 있다. 회전과 같은 곳에서 많이 쓰이기 때문이다.
 
 그래서 삼각함수의 기초가 되는 항등식 정리부터 다지고 가보려고 한다.
@@ -23,19 +23,19 @@ toc: true
 <br>
 
 ### 주기성
-
+---
 ![Periodicity](/assets/images/Trigonometric-Periodicity.jpeg)
 
 <br>
 
 ### 대칭성
-
+---
 ![Symmetry](/assets/images/Trigonometric-Symmetry.jpeg)
 
 <br>
 
 ### 이동성
-
+---
 ![Mobility](/assets/images/Trigonometric-Mobility.jpeg)
 
 <br>
@@ -47,25 +47,25 @@ toc: true
 <br>
 
 ### 삼각함수의 덧셈정리
-
+---
 삼각함수의 덧셈 정리는 외우지 않았다는 전제 하에 한 번에 결과를 생각해내기 어렵기 때문에 증명을 통해 이해를 해봤다.
 
 <br>
 
 #### 코사인 덧셈정리
-
+---
 ![Cos-Sum](/assets/images/Cos-Sum.jpeg)
 
 <br>
 
 #### 사인 덧셈정리
-
+---
 ![Sin-Sum](/assets/images/Sin-Sum.jpeg)
 
 <br>
 
 #### 탄젠트 덧셈정리
-
+---
 ![Tan-Sum](/assets/images/Tan-Sum.jpeg)
 
 <br>
