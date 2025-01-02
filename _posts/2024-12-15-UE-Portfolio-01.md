@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 언리얼 엔진 5.3 C++ 포트폴리오 1일차차
+title: 언리얼 엔진 5.3 C++ 포트폴리오 1일차
 author: munjjang9
 tags: [Unreal Engine]
 date: 2024-12-15 23:00 +0900
