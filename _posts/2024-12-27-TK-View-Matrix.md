@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 뷰 행렬렬
+title: 뷰 행렬
 author: munjjang9
 tags: [DirectX]
 date: 2024-12-26 20:00 +0900
