@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 언리얼 엔진 5.3 C++ 포트폴리오 8일차
+title: 언리얼 엔진 5.3 C++ 포트폴리오(Weapon Action)
 author: munjjang9
 tags: [Unreal Engine]
 date: 2024-12-23 23:00 +0900
@@ -8,7 +8,7 @@ categories: [Portfolio]
 toc: true
 ---
 
-# Unreal Engine 5.3 C++ Portfolio
+# Unreal Engine 5.3 C++ Portfolio Day-8
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3AVkCr1MYak?si=EYzJyePadCOq8_7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

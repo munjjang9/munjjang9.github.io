@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 언리얼 엔진 5.3 C++ 포트폴리오 19일차
+title: 언리얼 엔진 5.3 C++ 포트폴리오(AI Enemy 2)
 author: munjjang9
 tags: [Unreal Engine]
 date: 2025-01-03 23:00 +0900
@@ -8,7 +8,7 @@ categories: [Portfolio]
 toc: true
 ---
 
-# Unreal Engine 5.3 C++ Portfolio
+# Unreal Engine 5.3 C++ Portfolio Day-19
 
 ---
 
