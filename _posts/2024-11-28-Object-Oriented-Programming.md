@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 객체 지향향
+title: 객체 지향
 author: munjjang9
 tags: [C/C++]
 date: 2024-11-28 13:30 +0900
