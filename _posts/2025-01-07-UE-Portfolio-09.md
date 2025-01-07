@@ -23,8 +23,8 @@ toc: true
 
 - 문제
     - Player 피격 시 State가 꼬여서 무기 장착 등의 동작이 수행되지 않음
-    - Player와 Enemy 사이의 거리 때문에 Combo가 원활하게 수행되지 않음
+    - Player와 Enemy 사이의 거리 때문에 Combo가 정상적으로로 수행되지 않음
 
 - 해결 방안
-    - 피격 후의 State 처리 예정정
+    - 피격 후의 State 처리 예정
     - 임시로 Enemy의 공격에 밀어내는 거리를 0으로 줌.
