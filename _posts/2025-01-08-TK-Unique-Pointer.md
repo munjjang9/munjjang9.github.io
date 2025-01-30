@@ -3,7 +3,7 @@ layout: post
 title: 유니크 포인터
 author: munjjang9
 tags: [C/C++]
-date: 2025-01-04 21:00 +0900
+date: 2025-01-08 21:00 +0900
 categories: [Languages]
 toc: true
 ---
@@ -90,7 +90,7 @@ int* raw_ptr = ptr.get();
 
 ```cpp
 std::unique_ptr<int> ptr = std::make_unique<int>(10);
-int* raw_ptr = ptr.release(); // ptr은 nullptr이 됨
+int* raw_ptr = ptr.release(); // ptr은 nullptr이 됨. ptr은 블럭이 종료되는 시점에서 자동으로 해제됨
 delete raw_ptr; // 수동으로 메모리 해제 필요
 ```
 

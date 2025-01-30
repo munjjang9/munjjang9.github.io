@@ -3,7 +3,7 @@ layout: post
 title: 스태틱 링킹과 다이나믹 링킹
 author: munjjang9
 tags: [C/C++]
-date: 2025-01-04 21:00 +0900
+date: 2025-01-07 21:00 +0900
 categories: [Languages]
 toc: true
 ---
