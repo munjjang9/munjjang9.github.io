@@ -2,9 +2,9 @@
 layout: post
 title: 커맨드 패턴
 author: munjjang9
-tags: [C/C++]
+tags: [Design Pattern]
 date: 2025-01-06 21:00 +0900
-categories: [Languages]
+categories: [Game Development]
 toc: true
 ---
 
