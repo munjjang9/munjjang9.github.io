@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 유니크 포인터
+title: 공유 포인터
 author: munjjang9
 tags: [C/C++]
 date: 2025-01-09 21:00 +0900
