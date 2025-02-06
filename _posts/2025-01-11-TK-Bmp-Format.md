@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bmp 형식식
+title: Bmp 형식
 author: munjjang9
 tags: [Graphics/Rendering]
 date: 2025-01-11 21:00 +0900
