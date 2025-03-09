@@ -3,7 +3,7 @@ layout: post
 title: GUID & UUID
 author: munjjang9
 tags: [Software Engineering]
-date: 2025-01-13 21:00 +0900
+date: 2025-01-15 21:00 +0900
 categories: [Game Development]
 toc: true
 ---
