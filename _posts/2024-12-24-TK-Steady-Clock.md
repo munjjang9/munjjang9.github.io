@@ -3,13 +3,13 @@ layout: post
 title: steady_clock
 author: munjjang9
 tags: [C/C++]
-date: 2024-12-23 21:00 +0900
+date: 2024-12-24 21:00 +0900
 categories: [Languages]
 toc: true
 ---
 
 ## Steady_Clock과 System_Clock
-
+---
 C++에는 시간을 다루기 위한 기능들을 모아둔 chrono라는 라이브러리가 있다.
 
 system_clock과 steady_clock이라는 클래스가 존재한다.
