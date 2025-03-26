@@ -55,3 +55,5 @@ U : 위 삼각 행렬
 
 > 역행렬을 구하기 위해 사용 가능
 
+![Matrix-LU-Decompose](/assets/images/Matrix-LU-Decompose.png)
+- 사진 출처 : https://lypicfa.tistory.com/341
