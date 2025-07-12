@@ -96,5 +96,6 @@
 @media (max-width: $md-width) {
   .avatar-image {
     width: 40%;
+    min-width: 120px;
   }
 }
