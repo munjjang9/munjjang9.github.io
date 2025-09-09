@@ -67,9 +67,3 @@ highlighter: rouge
 
 kramdown:
   input: GFM
-
-pagination:
-    enabled: true
-    per_page: 5
-    sort_field: "date"
-    sort_reverse: true
