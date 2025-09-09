@@ -4,7 +4,7 @@ title: 백페이스 컬링
 author: munjjang9
 tags: [Graphics/Rendering]
 date: 2024-12-12 22:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

@@ -4,7 +4,7 @@ title: Texture 1D/2D/3D/Array
 author: munjjang9
 tags: [Graphics/Rendering]
 date: 2025-01-17 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

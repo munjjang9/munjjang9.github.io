@@ -4,7 +4,7 @@ title: 벡터의 내적과 외적
 author: munjjang9
 tags: [Math]
 date: 2024-12-26 20:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

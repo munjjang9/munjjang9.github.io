@@ -4,7 +4,7 @@ title: 알파 블렌딩
 author: munjjang9
 tags: [Graphics/Rendering]
 date: 2024-12-9 23:59 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

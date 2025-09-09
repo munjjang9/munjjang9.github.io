@@ -4,7 +4,7 @@ title: Logic Tree
 author: munjjang9
 tags: [Software Engineering]
 date: 2024-12-07 20:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

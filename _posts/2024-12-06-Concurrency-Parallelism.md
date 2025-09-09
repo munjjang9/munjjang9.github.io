@@ -4,7 +4,7 @@ title: 병행성과 병렬성
 author: munjjang9
 tags: [Computer Architecture]
 date: 2024-12-06 18:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

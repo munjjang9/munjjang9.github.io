@@ -4,7 +4,7 @@ title: 행렬 곱
 author: munjjang9
 tags: [Math]
 date: 2025-01-18 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

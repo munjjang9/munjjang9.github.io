@@ -4,7 +4,7 @@ title: 키프레임 애니메이션
 author: munjjang9
 tags: [Graphics/Rendering]
 date: 2025-01-03 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

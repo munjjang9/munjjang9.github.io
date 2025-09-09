@@ -4,7 +4,7 @@ title: MVC 아키텍쳐
 author: munjjang9
 tags: [Design Pattern]
 date: 2025-01-22 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

@@ -4,7 +4,7 @@ title: 원격 프로시저 호출
 author: munjjang9
 tags: [Network]
 date: 2025-01-20 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

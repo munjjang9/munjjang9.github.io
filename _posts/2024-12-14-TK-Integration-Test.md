@@ -4,7 +4,7 @@ title: 통합 테스트
 author: munjjang9
 tags: [Software Engineering]
 date: 2024-12-14 22:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

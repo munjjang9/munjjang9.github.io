@@ -4,7 +4,7 @@ title: 삼각형과 반직선의 교차
 author: munjjang9
 tags: [Math]
 date: 2025-01-02 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

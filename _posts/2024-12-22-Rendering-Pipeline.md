@@ -4,7 +4,7 @@ title: 렌더링 파이프라인
 author: munjjang9
 tags: [Graphics/Rendering]
 date: 2024-12-22 18:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

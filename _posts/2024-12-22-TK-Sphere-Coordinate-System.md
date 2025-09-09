@@ -4,7 +4,7 @@ title: 구면좌표계
 author: munjjang9
 tags: [Math]
 date: 2024-12-22 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

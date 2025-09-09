@@ -4,7 +4,7 @@ title: 윈도우 메시지 처리
 author: munjjang9
 tags: [Windows]
 date: 2024-12-16 18:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

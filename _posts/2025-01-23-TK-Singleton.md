@@ -4,7 +4,7 @@ title: 싱글톤 패턴
 author: munjjang9
 tags: [Design Pattern]
 date: 2025-01-23 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

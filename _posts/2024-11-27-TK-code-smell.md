@@ -4,7 +4,7 @@ title: 코드 스멜
 author: munjjang9
 tags: [Software Engineering]
 date: 2024-11-27 23:10 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

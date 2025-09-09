@@ -4,7 +4,7 @@ title: 리팩토링
 author: munjjang9
 tags: [Software Engineering]
 date: 2024-11-28 23:59 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

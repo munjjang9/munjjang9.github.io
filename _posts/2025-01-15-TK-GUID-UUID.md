@@ -4,7 +4,7 @@ title: GUID & UUID
 author: munjjang9
 tags: [Software Engineering]
 date: 2025-01-15 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

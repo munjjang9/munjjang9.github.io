@@ -4,7 +4,7 @@ title: 커맨드 패턴
 author: munjjang9
 tags: [Design Pattern]
 date: 2025-01-06 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

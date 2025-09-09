@@ -4,7 +4,7 @@ title: 캐시 메모리
 author: munjjang9
 tags: [Computer Architecture]
 date: 2025-01-24 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

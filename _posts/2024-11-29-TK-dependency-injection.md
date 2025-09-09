@@ -4,7 +4,7 @@ title: 의존성 주입
 author: munjjang9
 tags: [Software Engineering]
 date: 2024-11-29 23:59 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

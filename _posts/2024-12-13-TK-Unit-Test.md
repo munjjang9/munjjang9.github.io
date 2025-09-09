@@ -4,7 +4,7 @@ title: 단위 테스트
 author: munjjang9
 tags: [Software Engineering]
 date: 2024-12-13 22:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

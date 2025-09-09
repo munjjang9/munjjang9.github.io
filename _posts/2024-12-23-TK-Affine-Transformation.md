@@ -4,7 +4,7 @@ title: 아핀 변환
 author: munjjang9
 tags: [Math]
 date: 2024-12-23 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

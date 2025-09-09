@@ -4,7 +4,7 @@ title: 역삼각함수
 author: munjjang9
 tags: [Math]
 date: 2024-12-21 23:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

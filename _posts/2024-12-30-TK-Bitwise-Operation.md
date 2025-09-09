@@ -4,7 +4,7 @@ title: 비트 연산
 author: munjjang9
 tags: [etc]
 date: 2024-12-30 20:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 

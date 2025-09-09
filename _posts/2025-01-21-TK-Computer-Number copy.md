@@ -4,7 +4,7 @@ title: 컴퓨터에서의 수 표현
 author: munjjang9
 tags: [Network]
 date: 2025-01-21 21:00 +0900
-categories: [Game Development]
+categories: [Study]
 toc: true
 ---
 
