@@ -242,5 +242,5 @@ void Update(float DeltaTime)
 게임 프로그래밍을 하면서 물리 엔진을 다룰 때, 내부적으로 어떤 원리로
 작동하는지 이해하면 훨씬 수월하게 작업할 수 있다.
 
-• 참고 : https://en.wikipedia.org/wiki/Euler_method
-• 참고 : https://gafferongames.com/post/integration_basics/
+• 참고 1 : https://en.wikipedia.org/wiki/Euler_method  
+• 참고 2 : https://gafferongames.com/post/integration_basics/
